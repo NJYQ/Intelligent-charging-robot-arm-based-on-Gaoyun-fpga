@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18C" package="PBGA256" speed="8" partNumber="GW2A-LV18PG256C8/I7"/>
+    <FileList>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\cmos_8_16bit.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\ddr3_memory_interface\DDR3MI.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\fifo_hs\video_fifo.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\gowin_rpll\cmos_pll.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\gowin_rpll\mem_pll.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\gowin_rpll\sys_pll.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\iic_init\iic_ctrl.sv" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\iic_init\iic_master.sv" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\syn_gen.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\testpattern.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\top.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\video_frame_buffer\Video_Frame_Buffer_Top.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\uart_rx.v" type="verilog"/>
+        <File path="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\uart_tx.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\impl\gwsynthesis\top.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="top"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

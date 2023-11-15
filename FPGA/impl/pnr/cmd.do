@@ -1,0 +1,13 @@
+-d C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\impl\gwsynthesis\top.vg
+-p GW2A-18C-PBGA256-8
+-pn GW2A-LV18PG256C8/I7
+-cst C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\top.cst
+-cfg C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\impl\pnr\device.cfg
+-sdc C:\Users\86151\Desktop\ddr3_ov5640_lcd480\ddr3_ov5640_lcd480\src\lcd.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
